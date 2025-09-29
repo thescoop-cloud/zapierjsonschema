@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "FULL_HTML": {
+      "type": "string",
+      "description": "The full HTML content for the Mailchimp campaign"
+    }
+  },
+  "required": ["FULL_HTML"]
+}
